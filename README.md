@@ -1,2 +1,2 @@
-# staticSquare
-A static square made using Matter.js physics engine
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
